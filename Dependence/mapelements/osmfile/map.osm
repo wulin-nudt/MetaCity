@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.6 (2454156 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="28.4512700" minlon="113.3775000" maxlat="28.4527600" maxlon="113.3790300"/>
+ <node id="5775167283" visible="true" version="1" changeset="60932863" timestamp="2018-07-21T15:05:19Z" user="katpatuka" uid="17497" lat="28.4520233" lon="113.3781308">
+  <tag k="ele" v="485"/>
+  <tag k="name" v="三尖林"/>
+  <tag k="name:en" v="Mount Sanjianlin"/>
+  <tag k="natural" v="peak"/>
+  <tag k="source" v="cyclemap"/>
+ </node>
+  <way id="657187737" version="2" timestamp="2019-12-21T09:24:37Z" changeset="78708301" uid="10576636" user="今儿啊">
+    <nd ref="6155426733"/>
+    <nd ref="6155426734"/>
+    <nd ref="6155426735"/>
+    <nd ref="6155426736"/>
+    <nd ref="6155426733"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="晶鑫小区-4栋"/>
+  </way>
+  <way id="185859983" version="1" timestamp="2012-10-14T19:59:22Z" changeset="13497631" uid="13203" user="bahnpirat">
+    <nd ref="1965485574"/>
+    <nd ref="1965485550"/>
+    <nd ref="1965485596"/>
+    <nd ref="1965485599"/>
+    <nd ref="1965485670"/>
+    <nd ref="1965485597"/>
+    <nd ref="1965485584"/>
+    <nd ref="1965485600"/>
+    <nd ref="1965485559"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+ <relation id="2207017" visible="true" version="15" changeset="60996051" timestamp="2018-07-23T18:30:41Z" user="katpatuka" uid="17497">
+  <member type="relation" ref="8469825" role="subbasin"/>
+  <member type="way" ref="609903198" role="main_stream"/>
+  <member type="way" ref="50335864" role="main_stream"/>
+  <member type="way" ref="50335991" role="main_stream"/>
+  <member type="way" ref="38799922" role="main_stream"/>
+  <member type="way" ref="609772445" role="main_stream"/>
+  <member type="way" ref="609778396" role="main_stream"/>
+  <member type="way" ref="609772444" role="main_stream"/>
+  <member type="way" ref="422941906" role=""/>
+  <member type="way" ref="609747265" role=""/>
+  <member type="way" ref="609772527" role=""/>
+  <member type="way" ref="609772526" role=""/>
+  <member type="way" ref="609772525" role=""/>
+  <member type="way" ref="609772528" role=""/>
+  <member type="way" ref="609778448" role=""/>
+  <member type="way" ref="609778447" role=""/>
+  <member type="way" ref="423149954" role=""/>
+  <member type="way" ref="423149976" role=""/>
+  <member type="way" ref="609785001" role=""/>
+  <member type="way" ref="609785000" role=""/>
+  <member type="way" ref="609784998" role=""/>
+  <member type="way" ref="609784996" role=""/>
+  <member type="way" ref="609778444" role=""/>
+  <member type="way" ref="609778445" role=""/>
+  <member type="way" ref="609778446" role=""/>
+  <member type="way" ref="609791347" role=""/>
+  <member type="way" ref="609791338" role=""/>
+  <member type="way" ref="609791351" role=""/>
+  <member type="way" ref="609791333" role=""/>
+  <member type="way" ref="609791357" role=""/>
+  <member type="way" ref="609791335" role=""/>
+  <member type="way" ref="609892868" role=""/>
+  <member type="way" ref="609892865" role=""/>
+  <member type="way" ref="609892866" role=""/>
+  <member type="way" ref="609892864" role=""/>
+  <member type="way" ref="609965786" role=""/>
+  <member type="way" ref="609965788" role=""/>
+  <member type="way" ref="609965783" role=""/>
+  <member type="way" ref="609965787" role=""/>
+  <member type="way" ref="609965784" role=""/>
+  <member type="way" ref="423149980" role=""/>
+  <member type="way" ref="609965785" role=""/>
+  <member type="way" ref="423149966" role=""/>
+  <member type="way" ref="610173292" role=""/>
+  <member type="way" ref="610236711" role=""/>
+  <member type="way" ref="610236714" role=""/>
+  <member type="way" ref="610236724" role=""/>
+  <member type="way" ref="610236712" role=""/>
+  <member type="way" ref="610281545" role=""/>
+  <member type="way" ref="610281544" role=""/>
+  <member type="way" ref="610281542" role=""/>
+  <member type="way" ref="610281546" role=""/>
+  <member type="way" ref="610281541" role=""/>
+  <member type="way" ref="610281543" role=""/>
+  <member type="way" ref="610236717" role=""/>
+  <member type="way" ref="610236718" role=""/>
+  <member type="way" ref="50336096" role=""/>
+  <member type="way" ref="610236719" role=""/>
+  <member type="way" ref="610173291" role=""/>
+  <member type="way" ref="610173293" role=""/>
+  <member type="way" ref="610236721" role=""/>
+  <member type="way" ref="610243372" role=""/>
+  <member type="way" ref="610243369" role=""/>
+  <member type="way" ref="610243371" role=""/>
+  <member type="way" ref="610277742" role=""/>
+  <member type="way" ref="610243368" role=""/>
+  <member type="way" ref="610277749" role=""/>
+  <member type="way" ref="610277739" role=""/>
+  <member type="way" ref="610277740" role=""/>
+  <tag k="code" v="AFF10G06"/>
+  <tag k="name" v="捞刀河流域"/>
+  <tag k="name:en" v="Laodao basin (Xiang)"/>
+  <tag k="nsdi_code" v="FG5305"/>
+  <tag k="parent_basin" v="Xiang basin"/>
+  <tag k="type" v="watershed"/>
+  <tag k="wikipedia" v="en:Laodao River"/>
+  <tag k="zhb_code" v="11FH141903"/>
+ </relation>
+</osm>
